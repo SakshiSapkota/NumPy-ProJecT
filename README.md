@@ -28,3 +28,60 @@ marks = np.array([
     [70, 65, 80, 72],  # Student 4
     [94, 98, 90, 99]   # Student 5
 ])
+
+
+# 🎲 Dice Roll Analyzer using NumPy
+
+This beginner-friendly Python project uses NumPy to simulate rolling a 6-sided dice 1000 times and analyzes the results. It teaches core NumPy concepts like random number generation, counting, and basic probability — all in one small CLI app!
+
+---
+
+## ✅ Features
+
+- Simulates 1000 dice rolls (values 1 to 6)
+- Counts how many times each face appears
+- Calculates estimated probabilities
+- Uses only NumPy (no other libraries!)
+
+---
+
+## 🧠 What You’ll Learn
+
+- `np.random.randint()` for random number generation
+- `np.bincount()` for counting values
+- Looping and formatting output
+- Probability basics with NumPy
+
+---
+
+
+
+---
+
+
+# 🎲 Dice Roll Analyzer using NumPy
+
+This beginner-friendly Python project uses NumPy to simulate rolling a 6-sided dice 1000 times and analyzes the results. It teaches core NumPy concepts like random number generation, counting, and basic probability — all in one small CLI app!
+
+---
+
+## ✅ Features
+
+- Simulates 1000 dice rolls (values 1 to 6)
+- Counts how many times each face appears
+- Calculates estimated probabilities
+- Uses only NumPy (no other libraries!)
+
+---
+
+## 🧠 What You’ll Learn
+
+- `np.random.randint()` for random number generation
+- `np.bincount()` for counting values
+- Looping and formatting output
+- Probability basics with NumPy
+
+---
+
+## 🧪 Sample Output
+
